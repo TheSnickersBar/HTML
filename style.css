@@ -1,0 +1,36 @@
+h1{
+    color: blue
+}
+
+*{
+    border:solid
+}
+
+.header{
+    background-color:#2EB6DB;
+    display:flex;
+    justify-content: space-between;
+}
+
+.subTitle{
+    background-color:#BB99FF;
+}
+
+.grid{
+    background-color: #66FFFF;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.fota{
+    background-color: #33CCFF;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #FFFFFF;
+}
